@@ -1,0 +1,12 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --cream: #f9f6f1;
+    --dark: #1a1a18;
+    --olive: #7c8c6e;
+    --rust: #b85c38;
+    --sand: #e8dfd0;
+    --white: #ffffff;
+    --gray: #888;
+    --light-gray: #f2f2f0;
+  }

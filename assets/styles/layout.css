@@ -1,0 +1,17 @@
+header {
+  position: absolute;
+  top: 40px; 
+  left: 0;
+
+  width: 100%;
+  z-index: 999;
+
+  display: flex;
+  justify-content: center;
+}
+
+  footer {
+    background: #111;
+    color: #aaa;
+    padding: 80px 40px 40px;
+  }
